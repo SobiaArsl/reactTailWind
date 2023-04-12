@@ -1,0 +1,19 @@
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Roboto Slab', serif;
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.wrp{
+
+
+display: grid;
+grid: template rows 1px / 3px; ;
+    /* height: 100vh; */
+    background-color: orange; 
+    text-align: center;
+}
