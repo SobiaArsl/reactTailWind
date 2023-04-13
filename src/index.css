@@ -13,6 +13,7 @@
 
 
 display: grid;
+justify-content: ;
 grid: template rows 1px / 3px; ;
     /* height: 100vh; */
     background-color: orange; 

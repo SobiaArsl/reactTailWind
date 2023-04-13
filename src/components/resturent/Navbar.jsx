@@ -10,7 +10,7 @@ export default function Navbar() {
     <div className='px-4 py-4 max-w-[1300px] mx-auto   '>
       <div className='flex justify-between items-center font-bold bg-blue-400 sm:bg-gray-400 md:bg-red-300 lg:bg-orange-500'>
         <div className='flex justify-between items-center border-2 sm:w-full sm:max-w-[290px]'>
-          <img src='../svg/Navlogo.svg' className='' />
+          <img src='../svg/Navlogo.svg'  />
           <div className='flex justify-between items-center'>
             <p className='mr-6 hidden sm:block'> Bolg</p>
             <p className='hidden sm:block'> FAQ</p>
